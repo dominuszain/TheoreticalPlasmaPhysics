@@ -28,5 +28,8 @@ x = ode(xo, to, t, f)
 // plotting the results.
 scatter3d(x(1,:), x(2,:), x(3,:))
 
+// to make a 3d animation of the trajectory,
+// comet3d(x(1,:), x(2,:), x(3,:))
+
 // see the relevant paper for more insight.
 
