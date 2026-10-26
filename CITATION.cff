@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+type: software
+title: "Lorentz force trajectories"
+abstract: "Numerical solutions for the motion of a charged particle in uniform electric and magnetic fields, in Scilab and Python."
+authors:
+  - family-names: Ul Abideen
+    given-names: Zain
+    email: zain2@uni-bremen.de
+    affiliation: University of Bremen
+version: "1.0.0"
+date-released: "2026-10-26"
+license: MIT
+url: "https://github.com/dominuszain/TheoreticalPlasmaPhysics"
+repository-code: "https://github.com/dominuszain/TheoreticalPlasmaPhysics"
+keywords:
+  - plasma physics
+  - lorentz force
+  - charged particle
+  - numerical methods
+  - python
+  - scilab
+EOF

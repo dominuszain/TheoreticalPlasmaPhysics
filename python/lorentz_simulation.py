@@ -22,7 +22,7 @@ def main():
     y0 = [0.0, 1.0, 0.0, 1.0, 0.0, 0.0]
 
     fig = plt.figure(figsize=(16, 10))
-    plt.suptitle("Code of Zain Ul Abideen\nUpgraded by Claude Code + Gemma4", fontsize=14)
+    plt.suptitle("Code of Zain Ul Abideen", fontsize=14)
     ax = fig.add_axes([0.3, 0.1, 0.65, 0.8], projection='3d')
 
     t, coords = run_simulation(q_init, m_init, E_init, B_init, y0)
